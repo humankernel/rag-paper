@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex 2025.1.16)  17 JAN 2025 11:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.12) (preloaded format=pdflatex 2025.1.16)  17 JAN 2025 16:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -497,47 +497,63 @@ Package: endnotes 2020-01-02 endnotes package
 \endnotesep=\dimen179
 \@enotes=\write3
 )
+(/home/strange/.miktex/texmfs/install/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip75
+\multirow@cntb=\count308
+\multirow@dima=\skip76
+\bigstrutjot=\dimen180
+)
+(/home/strange/.miktex/texmfs/install/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count309
+\float@exts=\toks29
+\float@box=\box56
+\@float@everytoks=\toks30
+\@floatcapt=\box57
+)
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-3.
+5.
 
 (/home/strange/.miktex/texmfs/install/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 (/home/strange/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count308
-\l__pdf_internal_box=\box56
+\l__color_backend_stack_int=\count310
+\l__pdf_internal_box=\box58
 ) (rcci_template.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
 \openout1 = `rcci_template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Info: Redefining \. on input line 13.
-LaTeX Info: Redefining \% on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Info: Redefining \. on input line 15.
+LaTeX Info: Redefining \% on input line 15.
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: threeparttable package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 13.
+Package hyperref Info: Link coloring ON on input line 15.
  (rcci_template.out) (rcci_template.out)
 \@outlinefile=\write4
 \openout4 = `rcci_template.out'.
@@ -545,17 +561,17 @@ Package hyperref Info: Link coloring ON on input line 13.
 
 (/home/strange/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count309
-\scratchdimen=\dimen180
-\scratchbox=\box57
-\nofMPsegments=\count310
-\nofMParguments=\count311
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count312
-\MPscratchDim=\dimen181
-\MPnumerator=\count313
-\makeMPintoPDFobject=\count314
-\everyMPtoPDFconversion=\toks30
+\scratchcounter=\count311
+\scratchdimen=\dimen181
+\scratchbox=\box59
+\nofMPsegments=\count312
+\nofMParguments=\count313
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count314
+\MPscratchDim=\dimen182
+\MPnumerator=\count315
+\makeMPintoPDFobject=\count316
+\everyMPtoPDFconversion=\toks32
 )
 (/home/strange/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -600,74 +616,74 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 3
-1.
+3.
 (/home/strange/.miktex/texmfs/install/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 31.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 33.
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--31
+Underfull \hbox (badness 10000) in paragraph at lines 33--33
 
  []
 
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 31.
+ 33.
 (/home/strange/.miktex/texmfs/install/tex/latex/psnfss/ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 31.
+ 33.
 
 (/home/strange/.miktex/texmfs/install/tex/latex/psnfss/omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 31.
+ 33.
 
 (/home/strange/.miktex/texmfs/install/tex/latex/psnfss/omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 31.
+ 33.
 
 (/home/strange/.miktex/texmfs/install/tex/latex/psnfss/omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 31.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 31
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 33
 .
 
 (/home/strange/.miktex/texmfs/install/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 3
-1.
+3.
 
 (/home/strange/.miktex/texmfs/install/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 3
-1.
+3.
 
 (/home/strange/.miktex/texmfs/install/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 43--43
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
 
  []
 
 
 
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
 
 Package fancyhdr Warning: \headheight is too small (35.56593pt): 
 (fancyhdr)                Make it at least 65.03293pt, for example:
@@ -676,11 +692,11 @@ Package fancyhdr Warning: \headheight is too small (35.56593pt):
 (fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
 
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 43.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 45.
 [1
 Non-PDF special ignored!
 <special> papersize=614.295pt,794.96999pt
@@ -706,16 +722,24 @@ Package fancyhdr Warning: \headheight is too small (35.56593pt):
 (fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
 
 [3]
-<picture.png, id=34, 471.7625pt x 280.04625pt>
-File: picture.png Graphic file (type png)
-<use picture.png>
-Package pdftex.def Info: picture.png  used on input line 99.
-(pdftex.def)             Requested size: 261.62314pt x 155.30357pt.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 124.
-\openout3 = `rcci_template.ent'.
+Underfull \hbox (badness 7168) in paragraph at lines 135--135
+[]\OT1/ptm/m/n/9 Requerimientos Com-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
+[]\OT1/ptm/m/n/9 Capacidades Din[]ami-
+ []
+
+
+Underfull \hbox (badness 1325) in paragraph at lines 141--141
+[]\OT1/ptm/m/n/9 Menos adapt-able a en-tornos cam-biantes; el
+ []
+
+
+Underfull \hbox (badness 4543) in paragraph at lines 156--156
+[]\OT1/ptm/m/n/9 No ade-cua-do para in-cor-po-rar r[]api-da-mente
+ []
 
 
 
@@ -726,7 +750,7 @@ Package fancyhdr Warning: \headheight is too small (35.56593pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
 
-[4 <./picture.png>]
+[4]
 
 
 Package fancyhdr Warning: \headheight is too small (35.56593pt): 
@@ -735,7 +759,13 @@ Package fancyhdr Warning: \headheight is too small (35.56593pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
 
-[5] (rcci_template.bbl)
+[5]
+Overfull \hbox (2.55157pt too wide) in paragraph at lines 176--177
+[]\OT1/ptm/m/n/12 La val-i-daci[]on del pro-totipo se llev[]o a cabo uti-lizan-
+do tres art[]^^Pcu-los cient[]^^Pfi-cos de dis-tin-tas []areas del conocimien-
+ []
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (35.56593pt): 
@@ -754,12 +784,16 @@ Package fancyhdr Warning: \headheight is too small (35.56593pt):
 (fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
 
 [7]
-Overfull \hbox (17.889pt too wide) in paragraph at lines 200--201
-[]\OT1/ptm/m/n/12 Validaci[]on - Ver-i-fi-caci[]on, ya sea co-mo parte de la ac
--tivi-dad o por sep-a-ra-do, de la repli-ca-bil-i-dad/reproducci[]on
- []
+<figure1.png, id=111, 1878.01625pt x 1109.14375pt>
+File: figure1.png Graphic file (type png)
+<use figure1.png>
+Package pdftex.def Info: figure1.png  used on input line 232.
+(pdftex.def)             Requested size: 523.24628pt x 309.01804pt.
 
-(rcci_template.ent)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
 
 
 Package fancyhdr Warning: \headheight is too small (35.56593pt): 
@@ -768,7 +802,155 @@ Package fancyhdr Warning: \headheight is too small (35.56593pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
 
-[8] (rcci_template.aux
+[8]
+Overfull \hbox (2.0964pt too wide) in paragraph at lines 247--249
+[]\OT1/ptm/m/n/12 Advanced RAG: Este en-foque in-tro-duce op-ti-miza-ciones adi
+-cionales, co-mo el uso de ven-tanas deslizantes
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[9 <./figure1.png>]
+<figure2.png, id=144, 1927.2pt x 1172.38pt>
+File: figure2.png Graphic file (type png)
+<use figure2.png>
+Package pdftex.def Info: figure2.png  used on input line 257.
+(pdftex.def)             Requested size: 523.24628pt x 318.29996pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[10 <./figure2.png>]
+<figure3.png, id=161, 452.18938pt x 988.19188pt>
+File: figure3.png Graphic file (type png)
+<use figure3.png>
+Package pdftex.def Info: figure3.png  used on input line 267.
+(pdftex.def)             Requested size: 156.97548pt x 343.03757pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[11 <./figure3.png>]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 326.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 326.
+<figure4.png, id=172, 1290.7422pt x 364.2408pt>
+File: figure4.png Graphic file (type png)
+<use figure4.png>
+Package pdftex.def Info: figure4.png  used on input line 334.
+(pdftex.def)             Requested size: 523.24628pt x 147.66122pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[12 <./figure4.png>]
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[13]
+<figure5.png, id=207, 804.00375pt x 611.28375pt>
+File: figure5.png Graphic file (type png)
+<use figure5.png>
+Package pdftex.def Info: figure5.png  used on input line 366.
+(pdftex.def)             Requested size: 523.24628pt x 397.82408pt.
+
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[14]
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[15 <./figure5.png>] (rcci_template.bbl
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 71--76
+[]\OT1/ptm/m/n/12 Research Meta.  Lla-ma 3.2: Rev-o-lu-tion-iz-ing edge AI and 
+vi-sion with open, cus-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--76
+\OT1/ptm/m/n/12 tomiz-able mod-els, Septem-ber 2024.  URL [][]$\OT1/pcr/m/n/12 
+https : / / ai . meta . com / blog /
+ []
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[17])
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[18]
+\openout3 = `rcci_template.ent'.
+
+
+
+
+Package fancyhdr Warning: \headheight is too small (35.56593pt): 
+(fancyhdr)                Make it at least 65.03293pt, for example:
+(fancyhdr)                \setlength{\headheight}{65.03293pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-29.467pt}.
+
+[19] (rcci_template.aux
 LaTeX Info: Redefining \. on input line 12.
 LaTeX Info: Redefining \% on input line 12.
 )
@@ -780,23 +962,22 @@ Package rerunfilecheck Info: File `rcci_template.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15169 strings out of 475448
- 240676 string characters out of 5766348
- 651705 words of memory out of 5000000
- 37865 multiletter control sequences out of 15000+600000
- 623009 words of font info for 172 fonts, out of 8000000 for 9000
+ 15420 strings out of 475448
+ 245719 string characters out of 5766348
+ 664039 words of memory out of 5000000
+ 38076 multiletter control sequences out of 15000+600000
+ 616069 words of font info for 160 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 90i,17n,93p,1235b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</home/strange/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pf
-b></home/strange/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.p
+ 90i,14n,93p,1714b,687s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</home/strange/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.p
 fb></home/strange/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy9.p
 fb></home/strange/.miktex/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb></h
 ome/strange/.miktex/texmfs/install/fonts/type1/urw/times/utmb8a.pfb></home/stra
 nge/.miktex/texmfs/install/fonts/type1/urw/times/utmr8a.pfb></home/strange/.mik
 tex/texmfs/install/fonts/type1/urw/times/utmri8a.pfb>
-Output written on rcci_template.pdf (8 pages, 140045 bytes).
+Output written on rcci_template.pdf (19 pages, 953139 bytes).
 PDF statistics:
- 134 PDF objects out of 1000 (max. 8388607)
- 33 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 323 PDF objects out of 1000 (max. 8388607)
+ 76 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

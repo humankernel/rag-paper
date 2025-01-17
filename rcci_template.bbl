@@ -1,9 +1,116 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{17}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Chan et~al.(2024)Chan, Xu, Yuan, Luo, Xue, Guo, and
+  Fu]{chan_rq-rag_2024}
+Chi-Min Chan, Chunpu Xu, Ruibin Yuan, Hongyin Luo, Wei Xue, Yike Guo, and Jie
+  Fu.
+\newblock {RQ}-{RAG}: {Learning} to {Refine} {Queries} for {Retrieval}
+  {Augmented} {Generation}, 2024.
+\newblock URL \url{https://arxiv.org/abs/2404.00610}.
+\newblock Version Number: 1.
+
+\bibitem[Dai et~al.(2015)Dai, Olah, and
+  Le]{dai2015documentembeddingparagraphvectors}
+Andrew~M. Dai, Christopher Olah, and Quoc~V. Le.
+\newblock Document embedding with paragraph vectors, 2015.
+\newblock URL \url{https://arxiv.org/abs/1507.07998}.
+
+\bibitem[Delgado~L{\'o}pez(2022)]{delgado2022digital}
+Yorlis Delgado~L{\'o}pez.
+\newblock Digital documents and archival legislation: the case of mexico and
+  cuba.
+\newblock \emph{Investigaci{\'o}n bibliotecol{\'o}gica}, 36\penalty0 (90),
+  2022.
+
+\bibitem[Douze et~al.(2024)Douze, Guzhva, Deng, Johnson, Szilvasy, Mazaré,
+  Lomeli, Hosseini, and Jégou]{douze2024faisslibrary}
+Matthijs Douze, Alexandr Guzhva, Chengqi Deng, Jeff Johnson, Gergely Szilvasy,
+  Pierre-Emmanuel Mazaré, Maria Lomeli, Lucas Hosseini, and Hervé Jégou.
+\newblock The faiss library, 2024.
+\newblock URL \url{https://arxiv.org/abs/2401.08281}.
+
+\bibitem[Gao et~al.(2024)Gao, Xiong, Gao, Jia, Pan, Bi, Dai, Sun, Wang, and
+  Wang]{gao2024retrievalaugmentedgenerationlargelanguage}
+Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yi~Dai,
+  Jiawei Sun, Meng Wang, and Haofen Wang.
+\newblock Retrieval-augmented generation for large language models: A survey,
+  2024.
+\newblock URL \url{https://arxiv.org/abs/2312.10997}.
+
+\bibitem[Han et~al.(2023)Han, Zhang, Chen, Yang, Wang, Yu, Fu, and
+  Zhang]{han2023chartllamamultimodalllmchart}
+Yucheng Han, Chi Zhang, Xin Chen, Xu~Yang, Zhibin Wang, Gang Yu, Bin Fu, and
+  Hanwang Zhang.
+\newblock Chartllama: A multimodal llm for chart understanding and generation,
+  2023.
+\newblock URL \url{https://arxiv.org/abs/2311.16483}.
+
+\bibitem[Huang and
+  Huang(2024)]{huang2024surveyretrievalaugmentedtextgeneration}
+Yizheng Huang and Jimmy Huang.
+\newblock A survey on retrieval-augmented text generation for large language
+  models, 2024.
+\newblock URL \url{https://arxiv.org/abs/2404.10981}.
+
+\bibitem[Lee et~al.(2023)Lee, Calvin, Dasgupta, Krinner, Mukherji, Thorne,
+  Trisos, Romero, Aldunce, Barrett, et~al.]{lee2023climate}
+Hoesung Lee, Katherine Calvin, Dipak Dasgupta, Gerhard Krinner, Aditi Mukherji,
+  Peter Thorne, Christopher Trisos, Jos{\'e} Romero, Paulina Aldunce,
+  Ko~Barrett, et~al.
+\newblock \emph{Climate change 2023: synthesis report. Contribution of working
+  groups I, II and III to the sixth assessment report of the intergovernmental
+  panel on climate change}.
+\newblock The Australian National University, 2023.
+
+\bibitem[Meta(2024)]{meta_llama_2024}
+Research Meta.
+\newblock Llama 3.2: {Revolutionizing} edge {AI} and vision with open,
+  customizable models, September 2024.
+\newblock URL
+  \url{https://ai.meta.com/blog/llama-3-2-connect-2024-vision-edge-mobile-devices/}.
+
+\bibitem[Muludi et~al.(2024)Muludi, Fitria, Triloka, and Sutedi]{Muludi2024}
+Kurnia Muludi, Kaira~Milani Fitria, Joko Triloka, and Sutedi.
+\newblock Retrieval-augmented generation approach: Document question answering
+  using large language model.
+\newblock \emph{International Journal of Advanced Computer Science and
+  Applications}, 15\penalty0 (3), 2024.
+\newblock \doi{10.14569/IJACSA.2024.0150379}.
+\newblock URL \url{http://dx.doi.org/10.14569/IJACSA.2024.0150379}.
+
+\bibitem[Omrani et~al.(2024)Omrani, Hosseini, Hooshanfar, Ebrahimian, Toosi,
+  and Akhaee]{omrani2024hybrid}
+Pouria Omrani, Alireza Hosseini, Kiana Hooshanfar, Zahra Ebrahimian, Ramin
+  Toosi, and Mohammad~Ali Akhaee.
+\newblock Hybrid retrieval-augmented generation approach for llms query
+  response enhancement.
+\newblock In \emph{2024 10th International Conference on Web Research (ICWR)},
+  pages 22--26. IEEE, 2024.
+
+\bibitem[Parodi and Julio(2017)]{parodi2017no}
+Giovanni Parodi and Crist{\'o}bal Julio.
+\newblock No solo existen palabras en los textos escritos: algunas teor{\'\i}as
+  y modelos de comprensi{\'o}n de textos multimodales o multisemi{\'o}ticos.
+\newblock \emph{Investigaciones sobre lectura}, 8:\penalty0 27--48, 2017.
+
+\bibitem[Setty et~al.(2024)Setty, Thakkar, Lee, Chung, and
+  Vidra]{setty2024improvingretrievalragbased}
+Spurthi Setty, Harsh Thakkar, Alyssa Lee, Eden Chung, and Natan Vidra.
+\newblock Improving retrieval for rag based question answering models on
+  financial documents, 2024.
+\newblock URL \url{https://arxiv.org/abs/2404.07221}.
+
+\bibitem[Shi et~al.(2024)Shi, Sun, Li, and
+  Xu]{shi2024compressinglongcontextenhancing}
+Kaize Shi, Xueyao Sun, Qing Li, and Guandong Xu.
+\newblock Compressing long context for enhancing rag with amr-based concept
+  distillation, 2024.
+\newblock URL \url{https://arxiv.org/abs/2405.03085}.
 
 \bibitem[Toledo-Roman{\'\i} et~al.(2023)Toledo-Roman{\'\i},
   Garc{\'\i}a-Carmenate, Valenzuela-Silva, Baldoqu{\'\i}n-Rodr{\'\i}guez,
@@ -19,5 +126,19 @@ Mar{\'\i}a~Eugenia Toledo-Roman{\'\i}, Mayra Garc{\'\i}a-Carmenate, Carmen
   with soberana-plus: a double-blind, randomised, placebo-controlled phase 3
   clinical trial.
 \newblock \emph{The Lancet Regional Health--Americas}, 18, 2023.
+
+\bibitem[Vaswani et~al.(2023)Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez,
+  Kaiser, and Polosukhin]{vaswani2023attentionneed}
+Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones,
+  Aidan~N. Gomez, Lukasz Kaiser, and Illia Polosukhin.
+\newblock Attention is all you need, 2023.
+\newblock URL \url{https://arxiv.org/abs/1706.03762}.
+
+\bibitem[Zhang and Kotanko(2024)]{zhang20241506}
+Hanjie Zhang and Peter Kotanko.
+\newblock \# 1506 uremic toxicity: gaining novel insights through ai-driven
+  literature review.
+\newblock \emph{Nephrology Dialysis Transplantation}, 39\penalty0
+  (Supplement\_1):\penalty0 gfae069--0657, 2024.
 
 \end{thebibliography}
