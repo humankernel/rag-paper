@@ -1,0 +1,23 @@
+\begin{thebibliography}{1}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Toledo-Roman{\'\i} et~al.(2023)Toledo-Roman{\'\i},
+  Garc{\'\i}a-Carmenate, Valenzuela-Silva, Baldoqu{\'\i}n-Rodr{\'\i}guez,
+  Mart{\'\i}nez-P{\'e}rez, Rodr{\'\i}guez-Gonz{\'a}lez, Paredes-Moreno,
+  Mendoza-Hern{\'a}ndez, Romero, Sam{\'o}n-Tabio, et~al.]{toledo2023safety}
+Mar{\'\i}a~Eugenia Toledo-Roman{\'\i}, Mayra Garc{\'\i}a-Carmenate, Carmen
+  Valenzuela-Silva, Waldemar Baldoqu{\'\i}n-Rodr{\'\i}guez, Marisel
+  Mart{\'\i}nez-P{\'e}rez, Meiby Rodr{\'\i}guez-Gonz{\'a}lez, Beatriz
+  Paredes-Moreno, Ivis Mendoza-Hern{\'a}ndez, Ra{\'u}l Gonz{\'a}lez-Mujica
+  Romero, Oscar Sam{\'o}n-Tabio, et~al.
+\newblock Safety and efficacy of the two doses conjugated protein-based
+  soberana-02 covid-19 vaccine and of a heterologous three-dose combination
+  with soberana-plus: a double-blind, randomised, placebo-controlled phase 3
+  clinical trial.
+\newblock \emph{The Lancet Regional Health--Americas}, 18, 2023.
+
+\end{thebibliography}

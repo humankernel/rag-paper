@@ -1,0 +1,21 @@
+\@doanenote {1}
+macro:->Notas
+aclaratorias
+del
+texto,
+estas
+estarán
+ubicadas
+al
+final
+del
+trabajo.
+\@endanenote 
+\@doanenote {2}
+macro:->Esta
+es
+otra
+nota
+al
+final
+\@endanenote 
